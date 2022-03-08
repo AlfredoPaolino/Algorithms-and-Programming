@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1579970850 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Graph.h"
+	"myQ.h"
+
+1579451025 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\st.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ST.h"
+
+1579451025 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\st.h
+
+1579978481 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\graph.c
+	"Graph.h"
+
+1579453701 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\queue.h
+	"Graph.h"
+
+1579972166 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\graph.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"ST.h"
+	"myQ.h"
+
+1579451025 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\queue.c
+	<stdlib.h>
+	"Queue.h"
+
+1579972265 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\myq.h
+
+1579976877 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\12.1\myq.c
+	<stdio.h>
+	<stdlib.h>
+	"myQ.h"
+

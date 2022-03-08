@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1580290542 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Graph.h"
+
+1580295906 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\esame\graph.h
+	<stdio.h>
+
+1580219457 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\esame\st.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ST.h"
+
+1580219457 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\esame\st.h
+
+1580296995 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\esame\graph.c
+	<stdlib.h>
+	"ST.h"
+	"Graph.h"
+

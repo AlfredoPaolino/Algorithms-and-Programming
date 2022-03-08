@@ -1,0 +1,5 @@
+A1111 mario rossi 20/05/2004 via_monginevro torino 96042
+A1332 giovanni neri 17/11/2006 via_ravioli campobasso 14032
+A4516 marco ragusa 28/06/1950 via_reggio viareggio 34587
+A5673 gianni morandi 17/05/1980 via_monini isernia 10143
+A5673 giacomo bravi 16/12/2000 via_roma foggia 14352

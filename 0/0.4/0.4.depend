@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569877654 source:c:\users\alfredo\desktop\esercizi c\camurati-cabodi\0.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1569877654 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\0.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

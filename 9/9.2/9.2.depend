@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1576137350 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\inventario.c
+
+1576433871 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\invarray.c
+	"invArray.h"
+
+1576434785 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\pg.c
+	"pg.h"
+
+1576137332 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\pg_list.c
+
+1576434789 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\equiparray.c
+	"equipArray.h"
+
+1576431661 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\pglist.c
+	"pgList.h"
+
+1576433100 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pgList.h"
+	"invArray.h"
+	"pg.h"
+
+1576324531 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\pglist.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pg.h"
+
+1576432321 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\pg.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"equipArray.h"
+
+1576433865 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\invarray.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"inv.h"
+
+1576140562 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\inventario.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1576435213 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\inv.c
+	"inv.h"
+
+1576434785 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\equiparray.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"invArray.h"
+
+1576434785 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\9.2\inv.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

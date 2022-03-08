@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571999549 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1579435737 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"titoli.h"
+
+1579427463 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\titoli.c
+	"titoli.h"
+
+1579427217 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\titoli.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tempo.h"
+	"quotazioni.h"
+
+1579427217 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\tempo.h
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1579435638 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\quotazioni.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tempo.h"
+
+1579435883 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\quotazioni.c
+	"quotazioni.h"
+
+1579427544 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\11.1\tempo.c
+	"tempo.h"
+

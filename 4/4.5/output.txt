@@ -1,0 +1,7 @@
+SCUM modica caputmundi 10/09/2001 00:00:01 23:59:59 23
+AK47 modica ragusa 11/09/2001 22:40:00 23:00:00 10
+FAZE catania napoli 12/09/2001 02:02:12 02:06:12 0
+A780 modica torino 13/09/2001 22:40:00 23:21:22 12
+SCUN sorda dente 15/09/2001 10:00:01 10:15:00 12
+SCUO sorda bassa 16/09/2001 10:00:00 10:00:01 3
+AC13 alta bassa 19/09/2001 11:02:00 13:01:01 0

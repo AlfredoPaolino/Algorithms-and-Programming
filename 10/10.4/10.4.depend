@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1577454321 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\10.4\st.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ST.h"
+
+1577454321 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\10.4\st.h
+
+1577526238 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\10.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"ST.h"
+
+1577889657 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\10.4\grafo.h
+	"ST.h"
+
+1577889657 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\10.4\grafo.c
+	<stdlib.h>
+	<stdio.h>
+	"grafo.h"
+

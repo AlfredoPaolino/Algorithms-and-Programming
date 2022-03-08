@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575554363 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\8.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pg.h"
+	"inventario.h"
+
+1575554339 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\8.3\pg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pg.h"
+
+1575554359 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\8.3\pg.h
+	"inventario.h"
+
+1575538693 c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\8.3\inventario.h
+
+1575554814 source:c:\users\alfredo\desktop\poli\esercizi c\camurati-cabodi\8.3\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventario.h"
+
